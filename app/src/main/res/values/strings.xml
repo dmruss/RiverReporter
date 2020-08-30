@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">River Reporter</string>
+    <string name="title_activity_maps">River Reporter</string>
+    <string name="Favorites">Favorites</string>
+    <string name="Align">Align</string>
+    <string name="Back">Back</string>
+    <string name="weather_forecast">Weather Forecast</string>
+    <string name="river_name">River_Name</string>
+    <string name ="Favorite_Rivers">Favorite Rivers</string>
+    <string name ="Search_Bar"> Enter River, Town, or Area</string>
+</resources>

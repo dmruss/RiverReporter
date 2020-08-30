@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Reportero de Rio</string>
+    <string name="title_activity_maps">Reportero de Rio</string>
+    <string name="Favorites">Favoritas</string>
+    <string name="Align">Alinear</string>
+    <string name="Back">Regreso</string>
+    <string name="weather_forecast">Prediccion del Tiempo</string>
+    <string name="river_name">Nombre de Rio</string>
+    <string name ="Favorite_Rivers">Rios Favoritas</string>
+    <string name ="Search_Bar"> Escribir Rio, Pueblo, or Area</string>
+</resources>
