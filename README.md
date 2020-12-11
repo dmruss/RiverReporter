@@ -10,7 +10,7 @@ this application will be a useful resource for anglers or boaters who are lookin
 current conditions on Colorado rivers. 
 
 
-                  ## Application Activities: 
+   ## Application Activities: 
                   1) Mapping USGS river sampling locations using the Google Maps API 
                   2) Reporting current flow rates (cfs) of rivers in Colorado using the USGS REST 
                   web services 
@@ -42,27 +42,35 @@ the map view.
 ## Requirement Specification
 
 1. Mapping USGS river sampling locations using the Google Maps API 
-          a. Each river sampling location will be shown with a pin on a map
+
+
+      a. Each river sampling location will be shown with a pin on a map
           
-          b. The pin will be tap-able to show the name of the location and prompt the 
+      b. The pin will be tap-able to show the name of the location and prompt the 
             user if they would like more information in a new view 
             
             
 2. Reporting current flow rates (cfs) of rivers in Colorado using the USGS REST 
-    web services 
-           a. This will show the current flow rate of the river at the selected sampling 
-station 
-            b. This will be shown in the more information view 
+    web services
+    
+   a. This will show the current flow rate of the river at the selected sampling 
+station
+
+   b. This will be shown in the more information view 
             
             
 3. Reporting current and projected weather for the sampling locations using the 
 Open weather map api 
-            a. This will show the current and predicted weather for the selected sampling 
+
+   a. This will show the current and predicted weather for the selected sampling 
 station 
-            b. This will be shown in the more information view 
+
+   b. This will be shown in the more information view 
             
             
 4. Saving river sampling stations as favorites 
-            a. The option to save as a favorite will be shown as a star in the more 
+
+    a. The option to save as a favorite will be shown as a star in the more 
 information view 
-            b. The favorites list will persist between different sessions 
+
+    b. The favorites list will persist between different sessions 
